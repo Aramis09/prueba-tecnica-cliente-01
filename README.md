@@ -1,7 +1,7 @@
 
 # Prueba tecnica 
 
-Esta prueba tecnica trate de hacerla lo mejor que pude en el tiempo que tenia, es por esto que pueden llegar a faltar algunos detalles. Abajo dejo algunas aclaraciones: 
+Esta prueba tecnica trate de hacerla lo mejor que pude en el tiempo que tenia (7 horas), es por esto que pueden llegar a faltar algunos detalles. Abajo dejo algunas aclaraciones: 
 
 1) Probablemente no se hayan roto los contratos con la api con un mapeo.
 2) Algunos colores no son variables globales pero deberian serlo.
