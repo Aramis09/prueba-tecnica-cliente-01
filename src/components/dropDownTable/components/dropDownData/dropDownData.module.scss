@@ -1,0 +1,23 @@
+.container{
+  width: 100%;
+  text-align: left;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  li {
+    padding: 2%;
+    border: 2px solid #c3ced9;
+    padding-bottom: 15%;
+    margin-block: 5px;
+  }
+  button {
+    position: absolute;
+    right: 10px;
+    border: none;
+    padding: 2%;
+    background-color: #798996;
+    color: white;
+    border-radius: 0.2rem;
+    cursor: pointer;
+  }
+}

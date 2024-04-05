@@ -1,0 +1,15 @@
+.container{
+    width: 100%;
+    background-color: #d8dfe2;
+    border-radius: 0.2rem;
+    height: 20px;
+    position: relative;
+    label {
+      height: 100%;
+      width: 50%;
+      position: absolute;
+      background-color:#1aae9f ;
+    border-radius: 0.2rem;
+
+    }
+}

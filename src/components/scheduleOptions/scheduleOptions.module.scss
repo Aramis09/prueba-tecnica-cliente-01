@@ -1,0 +1,23 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  color: #596773;
+
+  .containerOptions{
+    display: grid;
+    grid-template-columns:  auto auto;
+    gap: 10px;
+    .option{
+        background-color: #c3cfd9;
+        text-align: center;
+        padding: 5%;
+        border-radius: 0.2rem;
+        font-size: 1.1rem;
+        font-weight: 800;
+        cursor: pointer;
+
+    } 
+
+  }
+}

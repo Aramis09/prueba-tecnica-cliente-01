@@ -1,0 +1,11 @@
+.container {
+  background-color: #f3f4f7;
+  color: #4d5d6d;
+  display: flex;
+  justify-content: space-between;
+  padding:1%;
+  img {
+    z-index: 1000;
+    cursor: pointer;
+  }
+}
